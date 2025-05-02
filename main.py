@@ -1,3 +1,5 @@
+from expense import Expense  # type: ignore
+
 def main():
     print("Hello, personal expense tracker!")
 
